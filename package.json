@@ -1,0 +1,12 @@
+{
+  "name": "gifocr",
+  "version": "1.0.0",
+  "description": "OCR Gif images",
+  "main": "index.js",
+  "author": "pooya parsa <pooya@pi0.ir>",
+  "license": "MIT",
+  "dependencies": {
+    "pace": "^0.0.4",
+    "tesseract.js": "^1.0.10"
+  }
+}
